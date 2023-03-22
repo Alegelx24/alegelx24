@@ -3,6 +3,9 @@
   <h1>Hi there 👋</h1>
 </div>
 
+ - 🌱 I’m currently studying Artificial intelligence and data analytics at Politecnico di Torino
+ - 📫 How to reach me: aleg24@hotmail.it
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,rust,c,js,nodejs,bootstrap,postman,vscode,idea,eclipse,figma,mongodb,py,sqlite,threejs " />
@@ -11,8 +14,7 @@
 
 
 
- - 🌱 I’m currently studying Artificial intelligence and data analytics at Politecnico di Torino
- - 📫 How to reach me: aleg24@hotmail.it
+
  
 <!--
 **Alegelx24/alegelx24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
