@@ -6,12 +6,22 @@
  - 🌱 I’m currently studying Artificial intelligence and data analytics at Politecnico di Torino
  - 📫 How to reach me: aleg24@hotmail.it
 
+<div align="center">
+  <h1>Skills</h1>
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,rust,c,js,nodejs,react,bootstrap,postman,vscode,idea,eclipse,figma,mongodb,py,sqlite,threejs " />
   </a>
 </p>
 
+<div align="center">
+  <h1>Stats</h1>
+</div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alegelx24&layout=compact&theme=radical)](https://github.com/alegelx24/github-readme-stats)
 
 
 
