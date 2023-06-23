@@ -4,7 +4,7 @@
 </div>
 
  - 🌱 I’m currently studying Artificial intelligence and data analytics at Politecnico di Torino
- - 📫 How to reach me: aleg24@hotmail.it
+ - 📫 aleg24@hotmail.it
 
 <div align="center">
   <h1>Skills</h1>
