@@ -17,12 +17,13 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alegelx24&show_icons=true&theme=dracula&locale=en" alt="Alegelx24" /></p>
 
 <!--
 <div align="center">
   <h1>Stats</h1>
 </div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alegelx24&show_icons=true&theme=dracula&locale=en" alt="Alegelx24" /></p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alegelx24&layout=compact&theme=radical)](https://github.com/alegelx24/github-readme-stats)
