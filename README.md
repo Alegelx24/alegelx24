@@ -17,6 +17,8 @@
 </p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alegelx24&show_icons=true&theme=dracula&locale=en" alt="Alegelx24" /></p>
+
 <!--
 <div align="center">
   <h1>Stats</h1>
