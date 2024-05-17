@@ -3,7 +3,7 @@
   <h1>Hi there 👋</h1>
 </div>
 
- - 🌱 I’m currently studying Artificial intelligence and data analytics at Politecnico di Torino
+ - 🌱 I’m a MSc graduated in Artificial intelligence and data analytics at Politecnico di Torino
  - 📫 aleg24@hotmail.it
 
 <div align="center">
